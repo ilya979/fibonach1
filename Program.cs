@@ -11,12 +11,12 @@ Console.WriteLine("Fib(N);");
 Console.Write("for N = ");
 
 N = Convert.ToUInt64(Console.ReadLine());
-
+stopWatch = new Stopwatch();
 
 
 Console.Write("Умножение матриц: ");
-stopWatch = new Stopwatch();
-stopWatch.Start();
+
+stopWatch.Restart();
 res = FibM(N);
 stopWatch.Stop();
 
@@ -25,8 +25,7 @@ Console.WriteLine("Fib(" + N + ") = " + res + " (" + stopWatch.ElapsedMillisecon
 
 
 Console.Write("Итерационный    : ");
-stopWatch = new Stopwatch();
-stopWatch.Start();
+stopWatch.Restart();
 res = FibI(N);
 stopWatch.Stop();
 
@@ -34,8 +33,7 @@ Console.WriteLine("Fib(" + N + ") = " + res + " (" + stopWatch.ElapsedMillisecon
 
 
 Console.Write("Золотое сечение : ");
-stopWatch = new Stopwatch();
-stopWatch.Start();
+stopWatch.Restart();
 try
 {
     res = FibF(N);
