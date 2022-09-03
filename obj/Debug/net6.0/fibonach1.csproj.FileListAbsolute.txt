@@ -1,0 +1,15 @@
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\fibonach1.csproj.AssemblyReference.cache
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\fibonach1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\fibonach1.AssemblyInfoInputs.cache
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\fibonach1.AssemblyInfo.cs
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\fibonach1.csproj.CoreCompileInputs.cache
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\bin\Debug\net6.0\fibonach1.exe
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\bin\Debug\net6.0\fibonach1.deps.json
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\bin\Debug\net6.0\fibonach1.runtimeconfig.json
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\bin\Debug\net6.0\fibonach1.dll
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\bin\Debug\net6.0\fibonach1.pdb
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\fibonach1.dll
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\refint\fibonach1.dll
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\fibonach1.pdb
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\fibonach1.genruntimeconfig.cache
+C:\Users\ibaikov\source\repos\fibonach1\fibonach1\obj\Debug\net6.0\ref\fibonach1.dll
